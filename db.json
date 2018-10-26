@@ -1,0 +1,24 @@
+{
+  "products" :[
+    {"id":1,"name":"Shrike, southern white-crowned","category":"Yellow"},
+    {"id":2,"name":"Quoll, spotted-tailed","category":"Puce"},
+    {"id":3,"name":"Tyrant flycatcher","category":"Orange"},
+    {"id":4,"name":"African darter","category":"Violet"},
+    {"id":5,"name":"Dove, ring","category":"Pink"},
+    {"id":6,"name":"Western grey kangaroo","category":"Mauv"},
+    {"id":7,"name":"Cape cobra","category":"Maroon"},
+    {"id":8,"name":"Red sheep","category":"Yellow"},
+    {"id":9,"name":"Bat, asian false vampire","category":"Pink"},
+    {"id":10,"name":"Kangaroo, eastern grey","category":"Orange"},
+    {"id":11,"name":"Jackal, silver-backed","category":"Turquoise"},
+    {"id":12,"name":"Little brown bat","category":"Crimson"},
+    {"id":13,"name":"Lion, african","category":"Green"},
+    {"id":14,"name":"Python, carpet","category":"Indigo"},
+    {"id":15,"name":"Gull, kelp","category":"Puce"},
+    {"id":16,"name":"Brush-tailed bettong","category":"Mauv"},
+    {"id":17,"name":"Cat, miner's","category":"Fuscia"},
+    {"id":18,"name":"Wood pigeon","category":"Goldenrod"},
+    {"id":19,"name":"Peccary, collared","category":"Blue"},
+    {"id":20,"name":"Sulfur-crested cockatoo","category":"Mauv"}
+  ]
+}
